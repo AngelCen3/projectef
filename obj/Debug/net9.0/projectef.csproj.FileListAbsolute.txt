@@ -68,3 +68,4 @@ C:\Users\Cliente\Desktop\C#\Curso de Fundamentos de Entity Framework\projectef\o
 C:\Users\Cliente\Desktop\C#\Curso de Fundamentos de Entity Framework\projectef\obj\Debug\net9.0\projectef.pdb
 C:\Users\Cliente\Desktop\C#\Curso de Fundamentos de Entity Framework\projectef\obj\Debug\net9.0\projectef.genruntimeconfig.cache
 C:\Users\Cliente\Desktop\C#\Curso de Fundamentos de Entity Framework\projectef\obj\Debug\net9.0\ref\projectef.dll
+C:\Users\Cliente\Desktop\C#\Curso de Fundamentos de Entity Framework\projectef\obj\Debug\net9.0\projectef.sourcelink.json

@@ -17,3 +17,8 @@ Por ejemplo este es para slq server
 ```bash
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 9.0.0
 ```
+
+estos comandos de consulta se utilizaron en algunas cosas que probamos
+
+SELECT * FROM Tareas;
+EXEC sp_help 'Tareas';

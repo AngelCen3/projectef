@@ -4,7 +4,8 @@ using projectef;
 
 var builder = WebApplication.CreateBuilder(args);  // Cofiguramos entity framework 
 
-builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
+//builder.Services.AddDbContext<TareasContext>(p => p.UseInMemoryDatabase("TareasDB"));
+builder.Services.AddSqlServer<TareasContext>(builder.Configuration.GetConnectionString("cnTareas"));   // <--Aqui me falta la configuracion para sql server
 
 var app = builder.Build();
 
